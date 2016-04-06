@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+LC_ALL=C
+WALLPAPERS="/usr/share/images/desktop-base/random/joy-wallpaper_1280x1024.svg"
+nitrogen --set-scaled --save "$WALLPAPERS"
+exit 0

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Logout
+Comment=Logout LXDE
+Icon=system
+Exec=lxsession-logout
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
